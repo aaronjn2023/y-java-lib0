@@ -1,2 +1,2 @@
 # y-java-lib0
-参考yjs lib0实现java版本
+Refer to yjs lib0 to implement the java version
